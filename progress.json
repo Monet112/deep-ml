@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:30:32.116Z",
+  "generated_at": "2026-10-17T21:30:34.429Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -399,6 +399,71 @@
       "last_pushed_at": "2026-10-02T16:43:20.705Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-10-05T06:33:47.135Z",
+      "last_pushed_at": "2026-10-05T06:33:47.135Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-10-05T06:44:01.227Z",
+      "last_pushed_at": "2026-10-05T06:44:01.227Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-10-05T06:46:28.825Z",
+      "last_pushed_at": "2026-10-05T06:46:28.825Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-10-05T06:49:58.446Z",
+      "last_pushed_at": "2026-10-05T06:49:58.446Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-10-05T06:55:35.341Z",
+      "last_pushed_at": "2026-10-05T06:55:35.341Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
